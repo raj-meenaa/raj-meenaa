@@ -1,7 +1,7 @@
 # ✋ Hi, I'm @raj-meenaa.
 
 ## 🌍 About Me
-I'm Rajbahadur Meena, a passionate programmer from [Your Location]. My journey in programming is driven by curiosity and the desire to create impactful solutions in the world of technology.
+I'm Rajbahadur Meena, a passionate programmer driven by curiosity and the desire to create impactful solutions in the world of technology.
 
 ### 💻 Programming Enthusiast
 I am deeply invested in exploring the vast realm of computer science. From building robust full-stack applications to crafting intricate algorithms, my interests revolve around creating innovative solutions and understanding the depths of programming.
@@ -17,6 +17,7 @@ I believe in lifelong learning and thrive on challenges that push me beyond my l
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
