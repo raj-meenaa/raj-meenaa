@@ -24,7 +24,7 @@ I believe in lifelong learning and thrive on challenges that push me beyond my l
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![your-username's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-raj-meenaa&theme=dracula)
+![raj's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj-meenaa&theme=dracula)
 
 ![snake svg](https://github.com/raj-meenaa/raj-meenaa/blob/output/github-contribution-grid-snake-dark.svg)
 
