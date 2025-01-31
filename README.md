@@ -59,8 +59,8 @@ class Developer:
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-meenaa&layout=compact&theme=vision-friendly-dark)](https://github.com/raj-meenaa)
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=raj-meenaa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raj-meenaa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
