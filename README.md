@@ -1,4 +1,4 @@
-# ✋ Hi, I'm @raj-meenaa.
+<!-- # ✋ Hi, I'm @raj-meenaa.
 
 ## 🌍 About Me
 I'm Rajbahadur Meena, a passionate programmer driven by curiosity and the desire to create impactful solutions in the world of technology.
@@ -34,4 +34,37 @@ I believe in lifelong learning and thrive on challenges that push me beyond my l
 ### 📫 Get in Touch
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/raj-meena/)
 - 🌐 Visit my [personal website](https://raj-meenaa.github.io/)
+ -->
 
+
+
+# 👋 Hi, I'm Rajbahadur Meena 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00F72E&center=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Tech+Evangelist" alt="Typing SVG" />
+</div>
+
+---
+
+## 📖 Table of Contents
+- [About Me](docs/about.md)
+- [Technical Skills](docs/skills.md)
+- [Projects](docs/projects.md)
+- [Achievements](docs/achievements.md)
+- [Contact](docs/contact.md)
+
+---
+
+## 🏆 GitHub Highlights
+
+<div align="center">
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=raj-meenaa&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-meenaa&layout=compact&theme=vision-friendly-dark)
+
+</div>
+
+---
+
+![Contribution Snake](https://github.com/raj-meenaa/raj-meenaa/blob/output/github-contribution-grid-snake-dark.svg)
