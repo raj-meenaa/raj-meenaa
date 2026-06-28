@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Rajbahadur Meena
+# 👋 Hello World! I'm Soumya
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Rajbahadur Meena"
+        self.name = "Soumya"
         self.role = "Full-Stack Developer"
         self.passion = "Building impactful solutions"
         self.stack = ["MongoDB", "Express", "React", "Node.js"]
